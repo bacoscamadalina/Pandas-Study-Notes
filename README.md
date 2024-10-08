@@ -17,10 +17,16 @@ I used resources from [Kaggle](https://www.kaggle.com) to guide my learning proc
 3. **SummaryFunctionsandMaps.py**  
    This script dives into using Pandas’ built-in summary functions like `mean`, `map`, `count`, etc. It also demonstrates how to apply functions to DataFrames, use mapping, and other advanced data transformation techniques.
 
-4. **economic-survey-of-manufacturing-june-2024-csv.csv**  
+4. **GroupingandSorting.py**  
+   This script covers the use of grouping and sorting operations in Pandas, including `groupby()` for aggregating data and `sort_values()` for sorting DataFrames.
+
+5. **economic-survey-of-manufacturing-june-2024-csv.csv**  
    This CSV file contains data used in the scripts for practice.
 
-5. **requirements.txt**  
+6. **organizations-100.csv**  
+   This CSV file includes data on 100 organizations, which is used for practice in manipulating and analyzing structured data. 
+
+7. **requirements.txt**  
    The `requirements.txt` file lists the Python libraries and versions required to run the scripts in this repository.
 
 ## Getting Started
