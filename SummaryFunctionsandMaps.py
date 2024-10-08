@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 ecosurvey = pd.read_csv('economic-survey-of-manufacturing-june-2024-csv.csv')
 
